@@ -1,0 +1,6 @@
+aircraft
+ship
+car
+tank
+bridge
+harbor
